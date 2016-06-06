@@ -18,9 +18,9 @@ Your smtp.json file should look something like this:
 ```
 
 ###Installation
-Install all files into a public directory on the web server. Navigate to the `index.php` file in a web browser to test the email functionality.
+Install all files in the `email` directory into a public directory on the web server. Navigate to the `index.php` file in a web browser to test the email functionality.
 
-The page will output the URL of the `send.php` script that will be posted to from the exhibit apps (our developers will need that URL to add to their code). 
+This page will output the URL of the `send.php` script that will be posted to from the exhibit apps (our developers will need that URL to add to their code). 
 
 For example, if you install the files in a directory called `email` in the root directory of your webserver, you would navigate to it in your web browser:
 

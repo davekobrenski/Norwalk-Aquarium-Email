@@ -32,4 +32,4 @@ The IP address (or domain) component should match that of your webserver. A cust
 
 The output of that web page will look something like this screenshot:
 
-![index.php screenshot](http://e.bbmdesigns.com/0y0p1O0l1P3X)
+![index.php screenshot](http://e.bbmdesigns.com/3G3W332k023M)

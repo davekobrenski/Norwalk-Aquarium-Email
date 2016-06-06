@@ -1,7 +1,0 @@
-{
-	"mailHost": "smtp.office365.com",
-	"mailUser": "JFK_Interactive@jfklfoundation.org",
-	"mailPass": "0B96aLM776",
-	"mailEncrypt": "tls",
-	"mailPort": 587
-}

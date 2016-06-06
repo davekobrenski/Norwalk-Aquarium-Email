@@ -1,7 +1,0 @@
-{
-	"mailHost": "mail.server273.com",
-	"mailUser": "norwalk@rlmg2.com",
-	"mailPass": "Waf-ybQ-5s8-xCf",
-	"mailEncrypt": "tls",
-	"mailPort": 587
-}

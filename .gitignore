@@ -1,0 +1,6 @@
+.DS_Store
+.DS_Store?
+config.codekit
+.codekit-cache
+email/functions/vendor/**/.git
+email/functions/vendor/**/**/.git
